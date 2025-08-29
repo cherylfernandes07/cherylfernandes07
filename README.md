@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Welcome to my page. 
+You can look at some of my UI repos on my other github page as well https://github.com/joanferns00
+Its got projects on:
+1. react-backbone
+2. u2f-ref-code
+3. titlegenerator
+4. joanferns00/aurelia-redux
+
+
 <!--
 **cherylfernandes07/cherylfernandes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
