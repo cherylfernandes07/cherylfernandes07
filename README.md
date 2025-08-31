@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 Welcome to my page. 
-You can look at some of my UI repos on my other github page as well https://github.com/joanferns00
+This repo has project on AI/ML and post 2024 technology.
+You can look at some of my UI repos on my other github page for older but more interesting projects https://github.com/joanferns00 
 Its got projects on:
 1. react-backbone
 2. u2f-ref-code
