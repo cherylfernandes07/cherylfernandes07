@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-You will find project using React, Angular and some project in ML/AI and NLP. There are also some simple Python Repos. 
+You will find projects using React, Angular and some project in ML/AI and NLP. There are also some simple Python Repos. 
 - 🔭 I’m currently working on NLP/AI projects that can interact with the user via a web app & Setting up basic repos that I can add features to.
 - 🌱 I’m currently learning latest and greatest of the recent versions of React and Angular with a focus on UI features. I'm also interested in Python-based web development.
 - 👯 I’m looking to collaborate on NLP projects and server side rendering.
